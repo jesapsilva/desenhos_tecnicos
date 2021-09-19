@@ -1,0 +1,17 @@
+1. Acople a peça 3 à peça 9;
+2. Feito isso, a peça 10 deverá passar dentro do diametro 
+interno da peça 3 
+3. Fazer o acoplamento da peça 6 na parte inferior da peça 10.
+4. Fazer o travamento da peça 4 no furo especificado na peça 6, 
+através de um ajuste forçado;
+5. Apos isso, inserir a peça 5 na parte interna da peça 6;
+6. Em seguida colocar as peças 7 através de ajuste forçado;
+7. Colocar a peça 8 na posição mostrada, de modo que a trava tenha 
+  um travamento na parte da frente do gancho;
+8. As 3 peças numero 1 deverão ser acopladas no centro da peça 12
+  através de ajuste forçado;
+9. A peça 12 deverá ser colocada concentrica com a peça 9 no furo
+  de posicionamento;
+10. A peça 11 deverá ser acoplada no furo da peça;
+11. A peça 2 deverá ser ajustada na ponta da peça 11 visando fazer 
+  o travamento dessa mesma.
